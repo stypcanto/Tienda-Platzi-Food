@@ -2,10 +2,7 @@
 module.exports = {
   content: [],
   theme: {
-    screens: {
-      'mobile': '390px',
-      // => @media (min-width: 390px) { ... }
-    },
+    
 
     extend: {
       colors:{
